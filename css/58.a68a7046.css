@@ -1,0 +1,119 @@
+.id-container[data-v-1a5d4ab3] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    min-height: 100vh;
+    padding: 80px;
+    text-align: center
+}
+
+.header[data-v-1a5d4ab3] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px
+}
+
+.back-btn[data-v-1a5d4ab3] {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 500;
+    margin-top: -60px
+}
+
+.back-btn i[data-v-1a5d4ab3] {
+    margin-right: 8px
+}
+
+.title[data-v-1a5d4ab3] {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    flex-grow: 1;
+    text-align: center;
+    margin-top: -22px
+}
+
+.logo[data-v-1a5d4ab3] {
+    height: 35px;
+    width: auto;
+    margin-top: -2px
+}
+
+.id-content[data-v-1a5d4ab3] {
+    padding: 20px;
+    border-radius: 10px
+}
+
+.id-photo[data-v-1a5d4ab3] {
+    width: 200px;
+    height: 300px;
+    border-radius: 2px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    background: #fff;
+    margin-top: -15px
+}
+
+.checkmark[data-v-1a5d4ab3] {
+    position: relative;
+    background-color: #2ab673;
+    color: #fff;
+    width: 53px;
+    height: 53px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin: -45px auto 10px auto;
+    margin-left: 80%
+}
+
+h2[data-v-1a5d4ab3] {
+    font-size: 23px;
+    font-weight: 600;
+    margin: 5px 0;
+    margin-top: 20%
+}
+
+p[data-v-1a5d4ab3] {
+    font-size: 26px;
+    margin: 5px 0
+}
+
+.age[data-v-1a5d4ab3] {
+    font-weight: 700;
+    font-size: 26px;
+    margin-bottom: 20%
+}
+
+.buttons[data-v-1a5d4ab3] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120%
+}
+
+.close-btn[data-v-1a5d4ab3],.scan-btn[data-v-1a5d4ab3] {
+    width: 120%;
+    padding: 14px;
+    border-radius: 3px;
+    margin-top: -20px
+}
+
+.close-btn[data-v-1a5d4ab3] {
+    background: #7bc4dd;
+    font-size: 17px
+}
