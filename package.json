@@ -1,0 +1,12 @@
+{
+  "name": "vank-id",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
